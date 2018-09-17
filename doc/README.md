@@ -24,13 +24,6 @@ Unpack the files into a directory, and then run delion-qt.exe.
 
 Drag Delion-Qt to your applications folder, and then run Delion-Qt.
 
-### Need Help?
-
-* See the documentation at the [Delion Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
-for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php) or on the [Delion Forum](http://delion.com/).
-* Join one of our Discord groups [Delion Discord Groups](https://discord.gg/YcnvMqt).
-
 Building
 ---------------------
 The following are developer notes on how to build Delion on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
